@@ -1,8 +1,7 @@
 
 # **Clean Node API**
 
-[![alt text](./public/img/logo-course.png "Link para o treinamento")](https://www.udemy.com/course/tdd-com-mango/?referralCode=B53CE5CA2B9AFA5A6FA1)
-
+![curso](https://raw.githubusercontent.com/rmanguinho/clean-ts-api/master/public/img/logo-course.png)
 ---
 
 ## [**Link para o curso completo**](https://www.udemy.com/course/tdd-com-mango/?referralCode=B53CE5CA2B9AFA5A6FA1)

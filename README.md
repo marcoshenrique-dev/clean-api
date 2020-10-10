@@ -4,13 +4,11 @@
 ![curso](https://raw.githubusercontent.com/rmanguinho/clean-ts-api/master/public/img/logo-course.png)
 ---
 
-## [**Link para o curso completo**](https://www.udemy.com/course/tdd-com-mango/?referralCode=B53CE5CA2B9AFA5A6FA1)
 
 This API is part of the training of professor Rodrigo Manguinho (Mango) at Udemy.
 
 The purpose of the training is to show how to create an API with a well-defined and decoupled architecture, using TDD (test-oriented programming) as the working methodology, Clean Architecture to distribute responsibilities in layers, always following the principles of SOLID and, whenever possible, applying Design Patterns to solve some common problems.
 
-## [**Link para a documentação da API**](http://fordevs.herokuapp.com/api-docs)
 
 > ## APIs built in training
 

@@ -4,6 +4,7 @@
 ![curso](https://raw.githubusercontent.com/rmanguinho/clean-ts-api/master/public/img/logo-course.png)
 ---
 
+Open for use
 
 This API is part of the training of professor Rodrigo Manguinho (Mango) at Udemy.
 

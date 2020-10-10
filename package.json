@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "nodemon",
-    "test": "jest",
+    "test": "jest --watch",
     "test:staged": "jest"
   },
   "dependencies": {
